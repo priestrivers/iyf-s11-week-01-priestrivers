@@ -27,4 +27,8 @@ navigation bar comes between the header
 ## Challenges Faced
 installation of live server to my pc it kept on saying download manualy
 
+
+## my dev.to post article URL 
+https://dev.to/priestrivers/semantic-html-and-accessibility-fbl
+
 to/priestrivers/semantic-html-and-accessibility-fbl
